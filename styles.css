@@ -1,0 +1,20 @@
+body {
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    color: #DAA520;
+    background-color: #ebebeb;
+}
+
+a:hover {
+    text-decoration: dashed;
+}
+
+#logo {
+    max-height: 50px;
+}
+
+.wrapper {
+    padding: 50px;
+    overflow: hidden;
+}
